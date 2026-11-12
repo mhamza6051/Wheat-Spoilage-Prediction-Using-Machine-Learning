@@ -1,0 +1,15 @@
+# App
+streamlit
+
+# Machine learning & data
+scikit-learn
+pandas
+numpy
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook
+jupyter
